@@ -10,7 +10,7 @@ export class CreateTags1642086709144 implements MigrationInterface {
                     {
                         name:"id",
                         type:"uuid",
-                        isPrimary:"true"
+                        isPrimary:true
                     },
                     {
                         name:"name",
