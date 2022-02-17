@@ -1,5 +1,5 @@
 import { AuthenticateUserService } from "../services/AuthenticateUserService"
-
+import {Request, Response} from "express"
 
 
 class AuthenticateUserController{
