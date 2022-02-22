@@ -6,11 +6,13 @@ how to work with yarn
 in this projects there are a few rules, 
 
 User Register
+<br>
 [x]the user needs to be authenticated to make a compliment
 <br>
 [x]is not allowed to register two users with the same email, nor with no email
 
 Tag register
+<br>
 [x]only adms can register</select>
 <br>
 [x]only possible to register a tag with name
@@ -18,6 +20,7 @@ Tag register
 [x] not allowed to register tags with same name
 
 Complimets register
+<br>
 [] not allowed to register a compliment for myself
 <br>
 []only possible to make compliments for valid 
